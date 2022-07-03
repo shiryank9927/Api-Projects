@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicLong;
 @RestController
 public class greetingController {
 
-    private static final String template = "Hello, %s";
+    private static final String template = "Hello, javaaa";
     private final AtomicLong counter = new AtomicLong();
 
     // /greeting?name=shiryank
